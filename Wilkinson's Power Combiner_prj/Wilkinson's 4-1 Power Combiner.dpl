@@ -1,0 +1,43 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,-68,1287,1250,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=Wilkinson's 4-1 Power Combiner.dat>
+  <DataDisplay=Wilkinson's 4-1 Power Combiner.sch>
+  <OpenDisplay=1>
+  <Script=Wilkinson's 4-1 Power Combiner.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 273 519 611 509 3 #c0c0c0 1 00 1 4e+09 5e+08 7e+09 1 -108.432 20 3.19207 1 -1 0.2 1 315 0 225 "" "" "">
+	<"S11_dB" #0000ff 0 3 0 0 0>
+	  <Mkr 5.716e+09 209 -111 3 0 0>
+	  <Mkr 5.86e+09 409 -117 3 0 0>
+	<"S22_dB" #ff6a00 0 3 0 0 0>
+	<"S33_dB" #ff00ff 0 3 0 0 0>
+	<"S44_dB" #00ff00 0 3 0 0 0>
+	<"S55_dB" #00ffff 0 3 0 0 0>
+	<"S21_dB_IL_2" #ffff00 0 3 0 0 0>
+	  <Mkr 5.716e+09 259 -437 3 0 0>
+	  <Mkr 5.866e+09 410 -437 3 0 0>
+	<"S31_dB_IL_3" #777777 0 3 0 0 0>
+	<"S41_dB_IL_4" #000000 0 3 0 0 0>
+	<"S51_dB_IL_5" #25f40a 0 3 0 0 0>
+  </Rect>
+  <Rect 100 1188 862 518 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"Phase_S21" #0000ff 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>

@@ -1,0 +1,38 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,140,1055,1624,1,0,407>
+  <Grid=10,10,0>
+  <DataSet=Switched line phase shifters.dat>
+  <DataDisplay=Switched line phase shifters.sch>
+  <OpenDisplay=1>
+  <Script=Switched line phase shifters.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 200 1270 749 540 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"S21_phase" #0000ff 0 3 0 0 0>
+	  <Mkr 5.79397e+09 508 -334 3 0 0>
+  </Rect>
+  <Rect 200 676 755 516 3 #c0c0c0 1 00 1 4e+09 1e+09 7e+09 1 -40 20 0 1 -1 1 1 315 0 225 "" "" "">
+	<"S11_dB" #0000ff 0 3 0 0 0>
+	  <Mkr 5.68844e+09 445 -57 3 0 0>
+	  <Mkr 5.86935e+09 550 -143 3 0 0>
+	<"S22_dB" #ff0000 0 3 0 0 0>
+	<"S21_dB_IL_2" #ff00ff 0 3 0 0 0>
+	  <Mkr 5.70352e+09 329 -516 3 0 0>
+	  <Mkr 5.86935e+09 520 -515 3 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>

@@ -1,0 +1,43 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,162,1045,1675,1,0,751>
+  <Grid=10,10,0>
+  <DataSet=BeamSteering Network.dat>
+  <DataDisplay=BeamSteering Network.sch>
+  <OpenDisplay=1>
+  <Script=BeamSteering Network.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 190 1329 668 459 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"phase_S21" #0000ff 0 3 0 0 0>
+	  <Mkr 5.794e+09 459 -292 3 0 0>
+  </Rect>
+  <Rect 210 620 555 438 3 #c0c0c0 1 00 1 4e+09 2e+08 7e+09 1 -37.3734 5 -1.97077 1 -1 0.2 1 315 0 225 "" "" "">
+	<"S11_dB" #0000ff 0 3 0 0 0>
+	  <Mkr 5.698e+09 344 -63 3 0 0>
+	  <Mkr 5.86e+09 394 -116 3 0 0>
+	<"S21_dB_IL_2" #ff1a0b 0 3 0 0 0>
+	  <Mkr 5.866e+09 355 -420 3 0 0>
+	  <Mkr 5.68e+09 211 -402 3 0 0>
+	<"S22_dB" #ff00ff 0 3 0 0 0>
+	<"S55_dB" #00ff00 0 3 0 0 0>
+	<"S51_dB_IL_5" #00ffff 0 3 0 0 0>
+	<"S41_dB_IL_4" #ffff00 0 3 0 0 0>
+	<"S33_dB" #777777 0 3 0 0 0>
+	<"S31_dB_IL_3" #000000 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
